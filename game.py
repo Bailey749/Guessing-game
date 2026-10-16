@@ -2,7 +2,7 @@
 import random
 
 LOW, HIGH = 1, 50
-MAX_ATTEMPTS = 10
+MAX_ATTEMPTS = 7
 
 #starts the game and prompts the user to guess the number, providing feedback with each guess
 def play_game():
